@@ -6,8 +6,8 @@
     "prepare": "husky install",
     "postinstall": "playwright install chromium"
   },
-  "version": "1.12.17",
-  "name": "survey-library",
+  "version": "1.0.0-custom.1",
+  "name": "@delyan-georgiev/survey-library",
   "private": true,
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.4",
